@@ -1,4 +1,4 @@
-# Vercel Redirect
+# Vercel App 301 Redirect 
 
 It redirects the website request from facebook to any blog while keeping the meta data for the each link. This app uses [Next.js](https://nextjs.org/) and the SSR!
 
